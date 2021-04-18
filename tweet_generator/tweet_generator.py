@@ -16,7 +16,7 @@ class PersonTweeter:
     def __init__(self, twitter_id, tpck, tsck, tpak, tsak, load_tweets=True, proper_caps=True, remove_urls=True):
         '''
         Params:
-            - twitter_id: TwitterID of User : Required
+            - twitter_id: TwitterID of User : melonsaurus
             - tpck: Public Consumer Key from Twitter API : Required
             - tsck: Secret Consumer Key from Twitter API : Required
             - tpak: Public Access Key from Twitter API : Required
